@@ -17,8 +17,11 @@ Then type: 'git clone https://github.com/greyhatter331/MaBoizDDoS.git'
 
 ### Step 3
 Navigate with terminal into the MaBoizDDoS folder and type 'python MaBoiz.py'
+This should run the application, if it doesn't contact me.
 
-Installing
+## Usage
+After running the program, you should see a windoow like this:
+
 
 A step by step series of examples that tell you how to get a development env running
 
