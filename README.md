@@ -20,7 +20,7 @@ Navigate with terminal into the MaBoizDDoS folder and type 'python MaBoiz.py'
 This should run the application, if it doesn't contact me.
 
 ## Usage
-After running the program, you should see a windoow like this:
+After running the program, you should see something like this:
 
 	   ====================================================
 	   ██╗███╗   ███╗     ██████╗ ██████╗ ███████╗██╗   ██╗
@@ -50,6 +50,24 @@ Them Boi'z Proxies (Proxy list):
 
 #### Then enter the name of the proxy list. (The default name for the proxy list is proxies.txt)
 
+	   ====================================================
+	   ██╗███╗   ███╗     ██████╗ ██████╗ ███████╗██╗   ██╗
+	   ██║████╗ ████║    ██╔════╝ ██╔══██╗██╔════╝╚██╗ ██╔╝
+	   ██║██╔████╔██║    ██║  ███╗██████╔╝█████╗   ╚████╔╝ 
+	   ██║██║╚██╔╝██║    ██║   ██║██╔══██╗██╔══╝    ╚██╔╝  
+	   ██║██║ ╚═╝ ██║    ╚██████╔╝██║  ██║███████╗   ██║   
+	   ╚═╝╚═╝     ╚═╝     ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   
+	     ==> #~~ ..PROXY DDOS BY GREYHATTER331.. ~~# <==  
+	   ====================================================
+Scrub (Target): http://www.example.com 
+
+Them Boi'z Proxies (Proxy list): proxies.txt
+
+Boiz (# of Boiz attacking): 
+
+#### After that, enter the number of attackers (threads). This number depends on the amount of threads that your system can keep alive and your proxies. I can usually go up to 4900 threads.
+
+The program will start connecting to all the proxies, after all proxies are connected, the attack will start. You can use this site to see if the attack is successful: http://currentlydown.com/
 
 
 
