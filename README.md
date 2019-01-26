@@ -16,6 +16,7 @@ Then type: 'git clone https://github.com/greyhatter331/MaBoizDDoS.git'
 
 
 ### Step 3
+Navigate into 
 
 Installing
 
