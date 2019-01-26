@@ -71,4 +71,4 @@ The program will start connecting to all the proxies, after all proxies are conn
 
 ## Troubleshooting
 
-If any of these steps do not work, feel free to contact me through Github!
+If any of these steps do not work for you, feel free to contact me through Github!
