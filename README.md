@@ -22,6 +22,36 @@ This should run the application, if it doesn't contact me.
 ## Usage
 After running the program, you should see a windoow like this:
 
+	   ====================================================
+	   ██╗███╗   ███╗     ██████╗ ██████╗ ███████╗██╗   ██╗
+	   ██║████╗ ████║    ██╔════╝ ██╔══██╗██╔════╝╚██╗ ██╔╝
+	   ██║██╔████╔██║    ██║  ███╗██████╔╝█████╗   ╚████╔╝ 
+	   ██║██║╚██╔╝██║    ██║   ██║██╔══██╗██╔══╝    ╚██╔╝  
+	   ██║██║ ╚═╝ ██║    ╚██████╔╝██║  ██║███████╗   ██║   
+	   ╚═╝╚═╝     ╚═╝     ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   
+	     ==> #~~ ..PROXY DDOS BY GREYHATTER331.. ~~# <==  
+	   ====================================================
+Scrub (Target): 
+
+Enter your target url.
+
+	   ====================================================
+	   ██╗███╗   ███╗     ██████╗ ██████╗ ███████╗██╗   ██╗
+	   ██║████╗ ████║    ██╔════╝ ██╔══██╗██╔════╝╚██╗ ██╔╝
+	   ██║██╔████╔██║    ██║  ███╗██████╔╝█████╗   ╚████╔╝ 
+	   ██║██║╚██╔╝██║    ██║   ██║██╔══██╗██╔══╝    ╚██╔╝  
+	   ██║██║ ╚═╝ ██║    ╚██████╔╝██║  ██║███████╗   ██║   
+	   ╚═╝╚═╝     ╚═╝     ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   
+	     ==> #~~ ..PROXY DDOS BY GREYHATTER331.. ~~# <==  
+	   ====================================================
+Scrub (Target): http://www.example.com 
+Them Boi'z Proxies (Proxy list):
+
+Then enter the name of the proxy list. (The default name for the proxy list is proxies.txt)
+
+
+
+
 
 A step by step series of examples that tell you how to get a development env running
 
