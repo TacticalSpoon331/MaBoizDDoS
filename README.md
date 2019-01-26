@@ -46,7 +46,8 @@ Scrub (Target):
 	     ==> #~~ ..PROXY DDOS BY GREYHATTER331.. ~~# <==  
 	   ====================================================
 ===============
-Scrub (Target): http://www.example.com 
+Scrub (Target): http://www.example.com
+
 ================================
 Them Boi'z Proxies (Proxy list):
 
@@ -65,8 +66,10 @@ Them Boi'z Proxies (Proxy list):
 	   ====================================================
 ===============
 Scrub (Target): http://www.example.com
+
 ================================
 Them Boi'z Proxies (Proxy list): proxies.txt
+
 ===========================
 Boiz (# of Boiz attacking): 
 
