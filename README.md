@@ -6,7 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 Prerequisites
 
 ### Step 1
-Navigate into the directory that you want to install MaBoizDDoS in. (e.g. cd Desktop)
+Navigate with terminal into the directory that you want to install MaBoizDDoS in. (e.g. cd Desktop)
 
 
 ### Step 2
@@ -16,7 +16,7 @@ Then type: 'git clone https://github.com/greyhatter331/MaBoizDDoS.git'
 
 
 ### Step 3
-Navigate into the MaBoizDDo
+Navigate with terminal into the MaBoizDDoS folder and type 'python MaBoiz.py'
 
 Installing
 
