@@ -33,7 +33,7 @@ After running the program, you should see a windoow like this:
 	   ====================================================
 Scrub (Target): 
 
-Enter your target url.
+#### Enter your target url.
 
 	   ====================================================
 	   ██╗███╗   ███╗     ██████╗ ██████╗ ███████╗██╗   ██╗
@@ -45,9 +45,10 @@ Enter your target url.
 	     ==> #~~ ..PROXY DDOS BY GREYHATTER331.. ~~# <==  
 	   ====================================================
 Scrub (Target): http://www.example.com 
+
 Them Boi'z Proxies (Proxy list):
 
-Then enter the name of the proxy list. (The default name for the proxy list is proxies.txt)
+#### Then enter the name of the proxy list. (The default name for the proxy list is proxies.txt)
 
 
 
