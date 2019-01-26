@@ -2,8 +2,7 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-Prerequisites
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Step 1
 Navigate with terminal into the directory that you want to install MaBoizDDoS in. (e.g. cd Desktop)
