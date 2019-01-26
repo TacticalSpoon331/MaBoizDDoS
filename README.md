@@ -32,6 +32,7 @@ After running the program, you should see something like this:
 	     ==> #~~ ..PROXY DDOS BY GREYHATTER331.. ~~# <==  
 	   ====================================================
 =============== 
+
 Scrub (Target): 
 
 #### Enter your target url.
@@ -46,9 +47,11 @@ Scrub (Target):
 	     ==> #~~ ..PROXY DDOS BY GREYHATTER331.. ~~# <==  
 	   ====================================================
 =============== 
+
 Scrub (Target): http://www.example.com
 
 ================================ 
+
 Them Boi'z Proxies (Proxy list):
 
 
@@ -65,12 +68,15 @@ Them Boi'z Proxies (Proxy list):
 	     ==> #~~ ..PROXY DDOS BY GREYHATTER331.. ~~# <==  
 	   ====================================================
 =============== 
+
 Scrub (Target): http://www.example.com
 
 ================================ 
+
 Them Boi'z Proxies (Proxy list): proxies.txt
 
 =========================== 
+
 Boiz (# of Boiz attacking): 
 
 #### After that, enter the number of attackers (threads). This number depends on the amount of threads that your system can keep alive and your proxies. I can usually go up to 4900 threads.
