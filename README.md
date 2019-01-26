@@ -10,10 +10,12 @@ Navigate into the directory that you want to install MaBoizDDoS in. (e.g. cd Des
 
 
 ### Step 2
-Type: ''
+Install git if you haven't already.
+
+Then type: 'git clone https://github.com/greyhatter331/MaBoizDDoS.git'
 
 
-Give examples
+### Step 3
 
 Installing
 
