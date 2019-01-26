@@ -1,7 +1,7 @@
 # MaBoizDDoS
 
 # Disclaimer
-This is a DDoS simulator tool but it does start real attacks that can take down real websites, it is for testing purposes and what you do with it is not my responsibility. I am not responsible for any damage that you might cause.
+This is a DDoS simulator tool but it does start real attacks that can take down real websites, it is for testing purposes and what you do with it is not my responsibility. I am not responsible for your actions and/or any damage that you might cause.
 
 ## Getting Started
 
